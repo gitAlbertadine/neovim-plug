@@ -1,6 +1,6 @@
 # neovim-plug
 ```
-
+apt install neovim
 https://github.com/junegunn/vim-plug
 -neovim:
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
