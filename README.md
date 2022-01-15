@@ -15,6 +15,8 @@ let g:neoformat_try_formatprg = 1
 call plug#begin('/data/data/com.termux/files/home/.local/share/nvim/site/plugged')
 Plug 'isruslan/vim-es6'
 Plug 'sbdchd/neoformat'
+Plug 'Shougo/ddc.vim'
+Plug 'vim-denops/denops.vim'
 call plug#end()
 -----====-=-=--
 https://prettier.io/docs/en/vim.html
